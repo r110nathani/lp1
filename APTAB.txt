@@ -1,0 +1,8 @@
+ONE
+&O
+&N
+&E
+TWO
+&T 
+&W 
+&O
